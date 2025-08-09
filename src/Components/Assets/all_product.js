@@ -5,16 +5,16 @@ import p4_img from "./Joseon-Glow-Serum.png";
 import p5_img from "./product_5.png";
 import p6_img from "./product_6.png";
 import p7_img from "./product_7.png";
-import p8_img from "./product_8.png";
+import p8_img from "./Iunik-Centella-Calming-Daily-Sunscreen.png";
 import p9_img from "./product_9.png";
 import p10_img from "./product_10.png";
 import p11_img from "./product_11.png";
-import p12_img from "./product_12.png";
+import p12_img from "./KSecret-Seoul-1988-Eye-Cream.jpg";
 import p13_img from "./product_13.png";
-import p14_img from "./product_14.png";
-import p15_img from "./product_15.png";
+import p14_img from "./Omi-Brotherhood-Deepener-Lip.jpg";
+import p15_img from "./KUMANO-COSME-Vitamin-C-Cleansing-Oil.jpg";
 import p16_img from "./product_16.png";
-import p17_img from "./product_17.png";
+import p17_img from "./Im-from-Black-Rice-Toner.png";
 import p18_img from "./product_18.png";
 import p19_img from "./product_19.png";
 import p20_img from "./product_20.png";
@@ -25,14 +25,14 @@ import p24_img from "./product_24.png";
 import p25_img from "./product_25.png";
 import p26_img from "./product_26.png";
 import p27_img from "./product_27.png";
-import p28_img from "./product_28.png";
+import p28_img from "./OMI-Sun-Bears-Mild-Gel-SPF.png";
 import p29_img from "./product_29.png";
 import p30_img from "./product_30.png";
 import p31_img from "./product_31.png";
 import p32_img from "./product_32.png";
 import p33_img from "./product_33.png";
 import p34_img from "./product_34.png";
-import p35_img from "./product_35.png";
+import p35_img from "./Pollufree-cleansing-foam.jpg";
 import p36_img from "./product_36.png";
 
 let all_product = [
@@ -94,8 +94,8 @@ let all_product = [
   },
   {
     id: 8,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
-    category: "women",
+    name: "Iunik Centella Calming Daily Sunscreen ",
+    category: "k-beauty",
     image: p8_img,
     new_price: 85.0,
     old_price: 120.5,
@@ -126,8 +126,8 @@ let all_product = [
   },
   {
     id: 12,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
-    category: "women",
+    name: "KSecret Seoul 1988 Eye Cream ",
+    category: "j-beauty",
     image: p12_img,
     new_price: 85.0,
     old_price: 120.5,
@@ -142,16 +142,16 @@ let all_product = [
   },
   {
     id: 14,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
-    category: "men",
+    name: "Omi Brotherhood Menturm Deepener Lip Color SPF20 ",
+    category: "j-beauty",
     image: p14_img,
     new_price: 85.0,
     old_price: 120.5,
   },
   {
     id: 15,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
-    category: "men",
+    name: "KUMANO COSME Cyclear Vitamin C Enzyme Cleansing Oil",
+    category: "j-beauty",
     image: p15_img,
     new_price: 85.0,
     old_price: 120.5,
@@ -166,8 +166,8 @@ let all_product = [
   },
   {
     id: 17,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
-    category: "men",
+    name: "I'm from Black Rice Toner ",
+    category: "k-beauty",
     image: p17_img,
     new_price: 85.0,
     old_price: 120.5,
@@ -254,8 +254,8 @@ let all_product = [
   },
   {
     id: 28,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
-    category: "kid",
+    name: "OMI Sun Bears Mild Gel SPF 35 PA+++ ",
+    category: "j-beauty",
     image: p28_img,
     new_price: 85.0,
     old_price: 120.5,
@@ -310,8 +310,8 @@ let all_product = [
   },
   {
     id: 35,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
-    category: "kid",
+    name: "Thank you farmer pollu free cleansing foam",
+    category: "k-beauty",
     image: p35_img,
     new_price: 85.0,
     old_price: 120.5,
